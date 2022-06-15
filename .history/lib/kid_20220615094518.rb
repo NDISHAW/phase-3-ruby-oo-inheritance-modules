@@ -1,6 +1,6 @@
-require_relative './fancy_dance'
+require_relative './'
 
-class Dancer
+class Kid
     attr_accessor :name
     extend FancyDance::ClassMethods
     include FancyDance::InstanceMethods

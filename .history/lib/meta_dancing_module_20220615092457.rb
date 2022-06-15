@@ -1,0 +1,3 @@
+class MetaDancing
+
+end
